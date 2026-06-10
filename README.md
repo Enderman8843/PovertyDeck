@@ -23,7 +23,9 @@ Make sure all connections match the diagram before powering on the device.
 5. Yayyy Hackpad works
 
 
-## Wiring Schematics 
+## Images 
+<img width="413" height="451" alt="image" src="https://github.com/user-attachments/assets/27fc7064-8996-4fc7-8427-c782e903692e" />
+
 
 
 
