@@ -1,17 +1,39 @@
-# Rhenium HUB
-It is Hi-Speed USB HUB with USB2514B_B Chip and 24mhz crystal , With Support of USB C aswell as USB A
+
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/28ea8e72-bf5c-4386-9fe3-ea6e2301dc21" width="700">
+</div>
+
+# PovertyDeck
+### The Most Economical Hackpad
+
+## How to Use
+
+First, connect the wires as shown in the diagram below.
+
+<div align="center">
+<img width="350" alt="image" src="https://github.com/user-attachments/assets/59329e73-f678-4241-807d-f8ec5b423d51" />
+
+</div>
+
+Make sure all connections match the diagram before powering on the device.
+1. Install CircuitPY 
+2. Add KMK files `(KMK folder and boot.py)`
+3. Add the code.py firmware from the `FIRMWARE` Folder
+4. Disconnect and Reconnect
+5. Yayyy Hackpad works
 
 
-## How To Use ?
-JUST PlUG IT INTO YOUR COMPUTER VIA THE INPUT
+## Images 
+<img width="413" height="451" alt="image" src="https://github.com/user-attachments/assets/27fc7064-8996-4fc7-8427-c782e903692e" />
 
 
-## PCB Layout and Render
 
-| PCB | Schematics / Wiring |
-|---|---|
-| <img width="575" height="578" alt="PCB" src="https://github.com/user-attachments/assets/fa64b069-2a6e-4073-a6ff-1451212a6e3e" /> | <img width="1152" height="712" alt="Schematics / Wiring" src="https://github.com/user-attachments/assets/84bbbc5a-4d09-4a25-9a1f-c85ea83c0772" /> |
 
-| 3D View Rear | Front |
-|---|---|
-| <img width="957" height="712" alt="3D View" src="https://github.com/user-attachments/assets/13c62d2d-2e46-4bf6-a404-284724f970a2" /> | <img width="727" height="806" alt="Side View" src="https://github.com/user-attachments/assets/4d034550-ef72-4539-ada1-0d913ecdcaa8" /> |
+# Bill of Materials (BOM)
+
+| Item | Description | Quantity | Unit Cost (₹) | Total Cost (₹) | Notes |
+|------|-------------|----------|--------------|--------------|-------|
+| Jumper Wire | Assorted jumper wires | 1 set | 0 | 0 | Found in home storage |
+| Waveshare RP2040 Clone | RP2040 Zero Raspberry Pi MCU with Presoldered Header | 1 | 299 | 299 | https://www.indianhobbycenter.com/products/rp2040-zero-raspberry-pi-mcu-with-presoldered-header?_pos=1&_psq=RP2040-Zero+Raspberry+Pi+MCU+With+Presoldered+Header |
+| Printed Case | Custom 3D-printed enclosure | 1 | 0 | 0 | Printed myself |
+| **Total** |  |  |  | **299** |  |
