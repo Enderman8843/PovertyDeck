@@ -14,9 +14,9 @@ keyboard.matrix = KeysScanner(
         board.GP28,  
         board.GP27,  
         board.GP26,  
-        board.GP25,  
-        board.GP24,  
-        board.GP23,  
+        board.GP15,  
+        board.GP14,  
+        board.GP13,  
     ],
     value_when_pressed=False,
 )
