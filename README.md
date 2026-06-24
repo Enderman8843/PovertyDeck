@@ -40,6 +40,7 @@ Make sure all connections match the diagram before powering on the microcontroll
 | Jumper Wire | Assorted jumper wires | 1 set | 0 | 0 | Found in home storage |
 | Waveshare RP2040 Clone | RP2040 Zero Raspberry Pi MCU with Presoldered Header | 1 | 299 | 299 | https://www.indianhobbycenter.com/products/rp2040-zero-raspberry-pi-mcu-with-presoldered-header?_pos=1&_psq=RP2040-Zero+Raspberry+Pi+MCU+With+Presoldered+Header |
 | Printed Case | Custom 3D-printed enclosure | 1 | 0 | 0 | Printed myself |
-| Akko Switches and Keycaps | Existing switches and keycaps | 1 set | 0 | 0 | Had them at home |
+| Akko black switches| Existing switches | 7  | 0 | 0 | Had them at home |
+| Akko grey keycaps| Existing switches | 7  | 0 | 0 | Had them at home |
 | USB _ C WIRE | Generic Wire | 1 set | 0 | 0 | Had them at home | 
 | **Total** |  |  |  | **299** |  |
