@@ -11,11 +11,12 @@
 First, connect the wires as shown in the diagram below.
 
 <div align="center">
-<img width="350" alt="image" src="https://github.com/user-attachments/assets/59329e73-f678-4241-807d-f8ec5b423d51" />
+<img width="473" height="377" alt="image" src="https://github.com/user-attachments/assets/261011b4-b6b5-4658-bbe7-ca0709a2205f" />
+
 
 </div>
 
-Make sure all connections match the diagram before powering on the device.
+Make sure all connections match the diagram before powering on the microcontroller.
 1. Install CircuitPY 
 2. Add KMK files `(KMK folder and boot.py)`
 3. Add the code.py firmware from the `FIRMWARE` Folder
